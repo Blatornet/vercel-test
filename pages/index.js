@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="#">Vercel-test 3.0!</a>
+          Welcome to <a href="#">Vercel-test 4.0!</a>
         </h1>
       </main>
 
